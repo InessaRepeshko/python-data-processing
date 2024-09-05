@@ -10,11 +10,11 @@ decisions.
 
 ## Topics of the laboratory classes
 
-1. Working in the Jupyter Notebook environment for data processing and visualization.
-2. Working with data using Pandas tools.
-3. Combining and processing data from different sources.
-4. Processing text data with Pandas tools.
-5. Processing of digital images.
-6. Creating a web application for collecting and storing data using third-party APIs.
+0. Working in the Jupyter Notebook environment for data processing and visualization.
+1. Working with data using Pandas tools.
+2. Combining and processing data from different sources.
+3. Processing text data with Pandas tools.
+4. Processing of digital images.
+5. Creating a web application for collecting and storing data using third-party APIs.
 
 © Inessa Repeshko. 2024
